@@ -1,0 +1,5 @@
+files/__main__.py plagiat1/__main__.py
+files/auto.py plagiat2/auto.py
+files/arima.py files/arima.py
+files/__main__.py files/auto.py
+files/zero.py files/__main__.py
